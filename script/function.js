@@ -1,5 +1,5 @@
 console.log("function file");
-function click()
+export function click()
 {
     console.log("clicked");
     let paragraph = document.getElementById("para");
