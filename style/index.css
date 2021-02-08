@@ -1,0 +1,19 @@
+* {
+  padding: 0px;
+  margin: 0px;
+}
+h1{
+    text-align: center;
+    margin: 60px;
+}
+.section{
+    text-align: center;
+}
+#para{
+    font-size: 24px;
+}
+img{
+    display: inline-block;
+    width: 80px;
+    height: 80px;
+}
